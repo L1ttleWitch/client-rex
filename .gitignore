@@ -15,7 +15,11 @@
 # Linker leftover with no extension (rare, but seen on some setups)
 ClientFile/Main
 
-# NOTE: We do NOT ignore *.obj or *.lib — MU client reuses those
+# Main.exe import library — anchored to ClientFile/ root only.
+# (We can't ignore *.lib globally because MU may reuse the extension.)
+ClientFile/Main.lib
+
+# NOTE: We do NOT ignore *.obj or *.lib globally — MU client reuses those
 # extensions for game data (e.g. EncTerrain*.obj).
 
 # OS / IDE noise
