@@ -1,0 +1,23 @@
+//===============================================================================================================
+// MasterCodex Season 6 - Mu Online
+// Developer: MasterCodex [takumi12]
+// Last review: 02.20.2020
+//===============================================================================================================
+// CustomGloves Config File
+//===============================================================================================================
+// Agregar archivos en: [Data/Item]
+//===============================================================================================================
+//GlovesID	  Model			LeftIndex	LeftModel			RightIndex		RightModel        	ColorR	ColorG	ColorB		name
+46	    	"BloodangelClo"		400		"BloodangelClo_L"		401	 		"BloodangelClo_R"     255		197		 57        // Vuốt Huyết Thần
+56			"Sword39"			402		"Sword39_L"				403			"Sword39_R"		  	  184       039      010		// Vuốt Hắc Thần
+59			"Sword40"			404		"Sword40_L"				405			"Sword40_R"			  10		10		 10			// Vuốt Thánh Thần
+60			"Sword41"			406		"Sword41_L"				407			"Sword41_R"			  255 		48 		 48		// Vuốt Thiên tử
+61			"Sword42"			408		"Sword42_L"				409			"Sword42_R"			  253		255		 119		// Vuốt Thiên Tử lv2
+64			"Sword43"			410		"Sword43_L"				411			"Sword43_R"			  239		154		 70			// Vuốt Thức Tĩnh
+80			"Sword44"			412		"Sword44_L"				413			"Sword44_R"			  127		127		 127		// Vuốt Mắt Xanh
+52			"Sword37"			414		"Sword37_L"				415			"Sword37_R"			  71        163      233		// Pantera Claws 
+53			"Sword38"			416		"Sword38_L"				417			"Sword38_R"			  229       178	     114		// Devast Claws
+81			"PrickleGlove"		420		"PrickleGlove_left"		421			"PrickleGlove_right"		  255		48		 48			// Vuốt 400 Huyết Long
+83			"Sword45"			418		"Sword45_L"				419			"Sword45_R"			  78 		17 		166		// Vuốt Tim Bạc
+100			"Sword102"			422	    "SwordL102"				423			"SwordR102"			  10        10		 10			// vuốt hộ vệ
+end

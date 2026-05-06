@@ -1,0 +1,101 @@
+0
+//Index   Message
+0         "Bảo vệ đã hoàn thành không đúng cách"
+1         "Không thể khởi động lại kết nối"
+2         "Không thể kết nối đến máy chủ trò chơi !!"
+3         "Thời gian phản hồi quá lâu"
+4         "Không thể bắt đầu Kết Nối đến Máy Chủ"
+5         "Bản Quyền Thuộc: %s"
+6         "Không thể kết nối đến máy chủ"
+7         "Vượt quá thời gian phản hồi cho phép!"
+8         "File Main đã bị thay đổi !"
+9         "Phiên bản không hợp lệ"
+10        "Bạn đang bị chặn tạm thời , vui lòng thử lại sau!"
+11        "Bạn bị chặn kết nối từ máy chủ (1)" //Block HWID
+12        "Bạn bị chặn kết nối từ máy chủ (2)" //Block IP
+13        "Không thể nhận thông tin"
+14        "[1] Phát hiện phần mềm tiềm ẩn không mong muốn!" //Dump
+15        "[2] Phát hiện phần mềm tiềm ẩn không mong muốn!" //Exc
+16        "Có tập tin đã bị chỉnh sửa !" //CheckSum
+17        "[3] Phát hiện phần mềm tiềm ẩn không mong muốn!" //Maping
+18        "[4] Phát hiện phần mềm tiềm ẩn không mong muốn!" //LIBRARY
+19        "[5] Phát hiện phần mềm tiềm ẩn không mong muốn!" //regedit
+20        "[6] Phát hiện bộ nhớ Game đã bị thay đổi!" //memory inject
+21        "Ngắt kết nối từ Máy Chủ"
+22        "[7] Phát hiện phần mềm tiềm ẩn không mong muốn!"
+23        "[8] Phát hiện có module không hợp lệ!" //dll inject
+24        "Phát hiện chương trình tự động bàn phím"
+25        "Phát hiện một bộ gỡ lỗi"
+29        "Vui lòng chạy ứng dụng: Chạy dưới quyền quản trị viên"
+30        "Có điều gì đó không đúng! Hãy khởi động lại ứng dụng, xin vui lòng"
+31        "Giới hạn main.exe!"
+32        "Game chỉ hoạt động trên máy thật, không sử dụng Máy Ảo!"
+end
+
+1
+//Index   Message
+0         "Protection was completed incorrectly"
+1         "Unable to restart the connection"
+2         "The connection to the game was lost"
+3         "Response time exceeded"
+4         "Could not start the connection"
+5         "Licensed to: %s"
+6         "Could not connect to the server"
+7         "Exhausted response time"
+8         "Client files corrupted"
+9         "Invalid version"
+10        "You are temporarily blocked"
+11        "You are blocked"
+12        "You are blocked"
+13        "Unable to receive information"
+14        "Suspected executions were found"
+15        "Suspected executions were found"
+16        "Required files have changed"
+17        "Suspected executions were found"
+18        "Suspected executions were found"
+19        "A possible threat was detected"
+20        "Improper memory change detected"
+21        "An attempt of cheating was detected"
+22        "A possible threat was detected"
+23        "Improper alteration detected"
+24        "Keyboard automation program detected"
+25        "A debugger was detected"
+29        "Please run application: Run as administrator"
+30        "Something went wrong! Restart application please"
+31        "Limiting main.exe!"
+32        "Anti Virtual Machine"
+end
+
+2
+//Index   Message
+0         "Protection was completed incorrectly"
+1         "Unable to restart the connection"
+2         "The connection to the game was lost"
+3         "Response time exceeded"
+4         "Could not start the connection"
+5         "Licensed to: %s"
+6         "Could not connect to the server"
+7         "Exhausted response time"
+8         "Client files corrupted"
+9         "Invalid version"
+10        "You are temporarily blocked"
+11        "You are blocked"
+12        "You are blocked"
+13        "Unable to receive information"
+14        "Suspected executions were found"
+15        "Suspected executions were found"
+16        "Required files have changed"
+17        "Suspected executions were found"
+18        "Suspected executions were found"
+19        "A possible threat was detected"
+20        "Improper memory change detected"
+21        "An attempt of cheating was detected"
+22        "A possible threat was detected"
+23        "Improper alteration detected"
+24        "Keyboard automation program detected"
+25        "A debugger was detected"
+29        "Please run application: Run as administrator"
+30        "Something went wrong! Restart application please"
+31        "Limiting main.exe!"
+32        "Anti Virtual Machine"
+end

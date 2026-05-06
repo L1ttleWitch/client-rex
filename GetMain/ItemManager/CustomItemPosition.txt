@@ -1,0 +1,12 @@
+// 								FILES PREMIUN SYSTEM CUSTOM ITEM POSITION
+//===============================================================================================================
+// MasterCodex Season 6 - Mu Online
+// Developer: MasterCodex
+// Last review: 07.03.2020
+//===============================================================================================================
+// CustomPosition config file
+// ItemIndex -> max 1000 Item Position
+//===============================================================================================================
+//ItemIndex	TranslationX	TranslationY	RotationX	RotationY	RotationZ	Scale			Commnet
+
+end

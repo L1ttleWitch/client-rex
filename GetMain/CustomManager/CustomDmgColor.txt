@@ -1,0 +1,44 @@
+//=================================================================================================================
+//-- Customize Damage Attack Color
+//-- Type Index :
+//== 0 : Normal Attack Damage
+//== 1 : Ignore Defense Damage
+//== 2 : Excellent Damage
+//== 3 : Critical Damage (Critical Strike)
+//== 4 : Damage Over Time (per second)
+//== 5 : Poison Damage
+//== 6 : Elemental Damage
+
+//== 7 : Damage X2
+//== 8 : Combo Damage
+//== 9 : Custom Damage
+//=== Note: To change a damage color, add the typeindex and the color of that damage; remove to use the default!
+//== Visit http://www.rgbtool.com/ to get color codes, or use Photoshop to pick colors
+//=================================================================================================================
+//		#TypeIndex	#Red  			#Green 			#Blue
+//=================================================================================================================
+//3			4				3				244
+//1			62				255				252
+//2			62				253				0
+//4			255				255				27
+//7			255				27				161
+
+//3			8				90				255
+//1			62				255				252
+//2			62				253				0
+//4			255				255				27
+//7			255				27				161
+
+
+//0            10   		06     	10           	
+//1            00   		10     	10           	
+//2            00   		10     	06           	
+//3            00   		06     	10           	
+//4            10   		00     	10           	
+//5            00   		10     	00           	
+//6            07   		04     	10           	
+//7            10   		06     	00           	
+//8            302   	10     	161           
+//9			 08		10			00				
+
+end

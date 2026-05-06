@@ -1,0 +1,20 @@
+// Add info commands in custom menu
+// Colors:
+// 1 - Gold
+// 2 - White
+// 3 - Orange
+// 4 - Red
+// 5 - Green
+// 6 - Yellow
+// 7 - Purple
+/////////////////////////////////////////////////////////////////////////////////////////
+//	#ID	#Color	#CommandInfo 		 	#InfoCommand	
+	0	1	"/Setpass <123>"		    "Chat With Party Leader 123 For PT"
+	1	2	"/Post <Msg>"			    "World Chat"
+	2	3	"/Addstr <Points>"		    "Add Points To Strength"
+	3	3	"/Addagi <Points>"		    "Add Points To Agility"
+	4	3	"/Addvit <Points>"		    "Add Points To Vitality"
+	5	3	"/Addene <Points>"		    "Add Points To Energy"
+	6	3	"/Addcmd <Points>"		    "Add Points To Command (DL)"
+	7	4	"/Pkclear <Clear PK>"	    "Cleanse PK Sin"
+end

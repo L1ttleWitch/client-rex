@@ -1,0 +1,10 @@
+//--world		MapName				TgaMapName					MusicMp3
+	83			"Acheron"			"ThanMaChien.tga"				""
+	87			"Thần Ma"			"ThanMaChien.tga"				""
+	98			"Công Thành Mini"		"CTCMini.tga"				""
+	105			"Boss Guild"		"BossGuild.tga"			    	""
+	106			"Dungeon PvP"		"dungeun.tga"			    	""
+	92			"ArenaVIP"		"LOL.tga"			    	""
+	88			"Loạn Chiến"		"NewMap97.tga"			    	""
+
+end

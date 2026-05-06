@@ -1,0 +1,50 @@
+// ----------------------------------------------------------------------------------
+// Type = 0: NPC
+// Type = 1: Monster
+// ----------------------------------------------------------------------------------
+// MonsterID | Type 	| Name 					| Dir 								| Folder 						| BMDFile 			| Size
+// ----------------------------------------------------------------------------------
+600		0		"NPC TESTING"			"Data\\Custom\\Monster\\NPC\\"		"Custom\\Monster\\NPC\\"		"NPC_423"			1.00
+602		0		"Priest James"			"Data\\Custom\\Monster\\NPC\\"		"Custom\\Monster\\NPC\\"		"james"				3.00
+603		0		"NPC TESTING"			"Data\\Custom\\Monster\\NPC\\"		"Custom\\Monster\\NPC\\"		"NPC_012"			1.00
+601		0		"Cộng Hưởng"			"Data\\Custom\\Monster\\NPC\\"		"Custom\\Monster\\NPC\\"		"NPC_421"			1.00
+604		0		"Cộng Hưởng"			"Data\\Custom\\Monster\\NPC\\"		"Custom\\Monster\\NPC\\"		"NPC_421"			1.00
+609		0		"NPC TESTING"			"Data\\Custom\\Monster\\NPC\\"		"Custom\\Monster\\NPC\\"		"NPC_420"			1.00
+610		0		"NPC TESTING"			"Data\\Custom\\Monster\\NPC\\"		"Custom\\Monster\\NPC\\"		"NPC_425"			1.00
+611		0		"NPC TESTING"			"Data\\Custom\\Monster\\NPC\\"		"Custom\\Monster\\NPC\\"		"NPC_031"			1.00
+612		0		"NPC TESTING"			"Data\\Custom\\Monster\\NPC\\"		"Custom\\Monster\\NPC\\"		"NPC_032"			1.00
+613		0		"NPC TESTING"			"Data\\Custom\\Monster\\NPC\\"		"Custom\\Monster\\NPC\\"		"NPC_419"			1.00
+
+801		1		"Kiếm Vương"			"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"LordOfDarkness"	1.6
+802		1		"Rồng Thiêng"			"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"rongsc"			1.0
+803		1		"Kỵ Sỹ Hắc Ám"			"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"Monster914"		1.0
+804		1		"Triệu Tử Long"			"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"Monster915"		1.2
+805		1		"Thần Rừng"				"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"Centaur"			1.4
+806		1		"Ma Sói"				"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"Lycandor00"		1.4
+807		1		"Chiến Thần"			"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"Monster9281"		1.0
+808		1		"Thần Ai Cập"			"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"Pharaoh_01"		1.3
+809		1		"Đế Quân"				"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"Monster31"			1.2
+810		1		"Lord Of Darkness"		"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"monster290"		1.0
+811		1		"Ma Thần"				"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"monster261"		1.4
+
+900		1		"Cua Khổng Lồ"			"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"USK_Green_Crab_Mob"			0.85
+901		1		"Cua Khổng Lồ"			"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"USK_Green_Crab_Mob"			0.85
+902		1		"Rương Kho Báu"				"Data\\Custom\\Monster\\Monster\\"	"Custom\\Monster\\Monster\\"	"tesouro"			0.85
+
+904		1		"Golden Hell Main"		"Data\\Custom\\Monster\\Gold\\HellMain\\"	"Custom\\Monster\\Gold\\HellMain\\"	"monster106"		1.80
+905		1		"Golden Kundun Ilusion"	"Data\\Custom\\Monster\\Gold\\Kundun\\"		"Custom\\Monster\\Gold\\Kundun\\"	"monster65"			2.20
+906		1		"Golden Selupan"		"Data\\Custom\\Monster\\Gold\\Selupan\\"	"Custom\\Monster\\Gold\\Selupan\\"	"Monster151"		2.00
+907		1		"Golden Medusa"			"Data\\Custom\\Monster\\Gold\\Medusa\\"		"Custom\\Monster\\Gold\\Medusa\\"	"monster193"		1.60
+end
+
+2 
+// ID		Name 			SetID			IndexVK1			IndexVK2 				IndexWing				Size
+700			"Boss DK"		29				22					22						6180					1.15
+701			"Boss DW"		30				2572				3087					6181					1.15
+702			"Boss Elf"		31				2078				2055					6182					1.15
+703			"Boss MG"		32				51					51						6183					1.15
+704			"Boss DL"		33				1049				3093					6184					1.15
+705			"Boss SM"		43				2610				2583					6187					1.15
+706			"Boss RF"		73				35					35						6194					1.15
+
+end

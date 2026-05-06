@@ -1,0 +1,16 @@
+//=== VIP Char Rank
+// TypeRank :
+//			1   Text Rank
+//			2	Image Rank
+// E.g. Type = 1 Then TextRank/Img = "Rank Name"
+// E.g. Type = 1 Then SizeText/Width = 18 (Font size)
+// ColorText = Text color code, only used when Type = 1
+// PosX ~ PosY : Position adjustment
+
+// E.g. Type = 2 Then TextRank/Img = "Custom\\RankUser\\TuChan\\1.tga"
+
+2
+//LevelRank		TypeRank		TextRank/Img								ColorText					SizeText/Width			Height		PosX			PosY
+	1				1			"★"											"0xFFDD00FF"					22					-1			7				-5
+
+end

@@ -1,0 +1,51 @@
+//==============================================================================
+// MasterCodex Season 6 - Mu Online
+// Developer: MasterCodex
+// Last review: 02.20.2020
+//==============================================================================
+// Custom Pet Config File
+// Agregar archivos en: [Data/Item]
+// Index  - ItemIndex
+// IndexInv - Index Texture view in inventory
+// ModelName - Name File BMD
+// Fenrir    - Effect Fenrir
+// 1 - Effect Fenrir
+// 2 - Effect Fenrir Golden
+// Inv - Inventory
+// Drop - Drop in game
+// View - Size in use player
+// Type: Moviment like a:
+// 0  - Demon			[NO FOUNT][UPDATE 14]
+// 1  - Rudolf			[NO FOUNT][UPDATE 14]
+// 2  - Panda			[NO FOUNT][UPDATE 14]
+// 3  - Unicorn			[NO FOUNT][UPDATE 14]
+// 4  - Skeleton		[NO FOUNT][UPDATE 14]
+// 5  - Fenrir (Mount)		[UPDATE 13]
+// 6  - Dark Horse (Mount) 	[UPDATE 13]
+// 7  - Uniria (Mount) 	[NO FOUNT][UPDATE 14]
+// 8  - Muun Pet 		[UPDATE 7]
+// 9  - Angel
+// 10 - Satan
+// 11 - Dinorant (Mount) 		[NO FOUNT][UPDATE 14]
+//===========================================================================
+//Index	IndexInv Type	ModelName		Fenrir	Inv		Drop	View	ScaleX(<-> 		ScaleY(LenXuong)		Angle ( Quay)
+//===========================================================================
+  6828	 6828	 6 		"warhornc" 			2	1.6		1.8		1.50      0.01		-0.04		-270
+  6829	 6829	 6 		"HolyFenrir_Inv" 	2	0.7		1.8		1.50      0.01		-0.04		-0
+  6830	 6830	 6 		"DivineHorse_Inv" 	2	0.9		1.8		1.50      0.01		-0.04		-0
+  6831	 6831	 6 		"Ghosthorse" 		2	1.2		1.8		1.50      -0.02		-0.04		-0
+ 
+  //6856	 6856	 8		"chvsr"				0	0.6		0.6		0.65      -0.01		-0.04		-40
+  6856	 6856	 0		"Desmodus_evol"			0	1.0		0.6		0.80      -0.01		0.01		-40
+  6857	 6661	 0		"DivineSpirit_Ice"		0	0.6		0.6		0.65      -0.01		-0.04		-40
+  6858	 6661	 0		"DivineSpirit_Fire"		0	0.6		0.6		0.65      -0.01		-0.04		-40
+  6859	 6661	 0		"DivineSpirit"			0	0.6		0.6		0.65      -0.01		-0.04		-40
+  
+  6911	 6831	 6		"Ghost_Blue"		0	0.4		0.3		0.95      -0.01		-0.04		-90
+  6912	 6828	 5		"fenrir_blue"		2	0.4		0.3		0.80      0.01		-0.04		0
+  
+  6913	 6830	 6		"Divine_Horse"		0	0.4		0.3		0.95      -0.01		-0.04		-90
+  6914	 6829	 5		"HolyFenrir"		2	0.4		0.3		0.80      0.01		-0.04		0
+
+  
+end

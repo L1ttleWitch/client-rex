@@ -1,0 +1,10 @@
+//--world		MapName				TgaMapName					MusicMp3
+	83			"Acheron"			"ThanMaChien.tga"				""
+	87			"Demon God"			"ThanMaChien.tga"				""
+	98			"Castle Siege Mini"		"CTCMini.tga"				""
+	105			"Boss Guild"		"BossGuild.tga"			    	""
+	106			"Dungeon PvP"		"dungeun.tga"			    	""
+	92			"ArenaVIP"		"LOL.tga"			    	""
+	88			"Chaos Battle"		"NewMap97.tga"			    	""
+
+end
