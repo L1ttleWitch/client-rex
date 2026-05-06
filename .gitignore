@@ -1,0 +1,28 @@
+# MSVC build residues left behind when Main.exe is compiled
+# (the binary itself, Main.exe, IS tracked — we only exclude residues)
+
+**/*.pdb
+**/*.exp
+**/*.ilk
+**/*.idb
+**/*.iobj
+**/*.ipdb
+**/*.tlog
+**/*.lastbuildstate
+**/*.exe.recipe
+**/*.exe.intermediate.manifest
+
+# Linker leftover with no extension (rare, but seen on some setups)
+ClientFile/Main
+
+# NOTE: We do NOT ignore *.obj or *.lib — MU client reuses those
+# extensions for game data (e.g. EncTerrain*.obj).
+
+# OS / IDE noise
+.vs/
+*.suo
+*.user
+desktop.ini
+Thumbs.db
+ehthumbs.db
+.DS_Store
