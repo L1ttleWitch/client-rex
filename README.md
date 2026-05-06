@@ -10,4 +10,4 @@ Cliente de **T-Rex MU**.
 ## Notas
 
 - Repositorio público de referencia. Para correr el cliente necesitás los binarios y data ya incluidos.
-- Los archivos del servidor viven en [`muserver-rex`](https://github.com/trex-serverfiles/muserver-rex).
+- Los archivos del servidor viven en [`muserver-rex`](https://github.com/trex-files/muserver-rex).
