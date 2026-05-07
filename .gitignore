@@ -22,6 +22,12 @@ ClientFile/Main.lib
 # NOTE: We do NOT ignore *.obj or *.lib globally — MU client reuses those
 # extensions for game data (e.g. EncTerrain*.obj).
 
+# Temporary round-trip backups left by the GlobalText (.bmd) tooling
+ClientFile/Data/Local/**/*.bmd.pre-*.bak
+
+# Local screenshots dropped by the player
+ClientFile/Screenshots/
+
 # OS / IDE noise
 .vs/
 *.suo
