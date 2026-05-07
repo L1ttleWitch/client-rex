@@ -1,0 +1,49 @@
+# MU client binary formats — never apply text/CRLF conversion to these.
+# Treating them as text causes silent corruption when autocrlf is enabled.
+
+# MU proprietary data
+*.bmd binary
+*.bin binary
+*.obj binary
+*.lib binary
+*.smd binary
+*.att binary
+*.cap binary
+*.ozb binary
+*.ozt binary
+*.ozj binary
+*.ozg binary
+*.ozm binary
+*.ozd binary
+*.osk binary
+
+# Executables / native modules
+*.exe binary
+*.dll binary
+*.pdb binary
+
+# Images / textures
+*.bmp binary
+*.tga binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.ico binary
+*.dds binary
+
+# Audio / video
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.aac binary
+*.wma binary
+*.avi binary
+*.mp4 binary
+
+# Archives
+*.zip binary
+*.rar binary
+*.7z binary
+*.cab binary
+*.iso binary
